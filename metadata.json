@@ -1,0 +1,5 @@
+{
+  "name": "SonicFlow Visualizador",
+  "description": "Visualização de áudio em tempo real de alto desempenho usando Web Audio API e HTML5 Canvas. Apresenta vários modos de visualização e uma interface moderna.",
+  "requestFramePermissions": []
+}
